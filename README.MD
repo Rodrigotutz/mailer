@@ -1,5 +1,5 @@
 # Classe para envio de e-mails
 
-```shell
+```cmd
     composer install
 ```
