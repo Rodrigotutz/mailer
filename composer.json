@@ -1,0 +1,20 @@
+{
+    "name": "rodrigotutz/mailer",
+    "description": "Classe para envio de e-mails",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RodrigoTutz\\Mailer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rodrigo Tutz",
+            "email": "rodrigoantunestutz@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
